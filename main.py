@@ -882,11 +882,11 @@ def tools():
 ##############################################################################################
 def title():
     stdout.write("                                                                                    
-    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"◉──◉⚀██ᚏᚏᚏᚎᚎ██⚀◉──◉\n")
+    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"◉──◉VUHAN-DDOS◉──◉          \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of VuHan-DDoS   "+Fore.LIGHTCYAN_EX  +"       ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"          Type [help] to see the Commands    "+Fore.LIGHTCYAN_EX +"       ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"          Type [help] to see the Commands and use with your way     "+Fore.LIGHTCYAN_EX +"       ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"         Contact Dev - email dinhgiaquy9a@gmail.com   "+Fore.LIGHTCYAN_EX +"        ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
